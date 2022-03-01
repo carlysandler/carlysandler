@@ -11,10 +11,10 @@ You can find me at the intersection between Productivity, Commerce, and Behavior
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/GraceHopper-Pastry/Capstone-Project/pull/91) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
-2. 🎉 Merged PR [#89](https://github.com/GraceHopper-Pastry/Capstone-Project/pull/89) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
-3. ❗️ Closed issue [#64](https://github.com/GraceHopper-Pastry/Capstone-Project/issues/64) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
-4. 🎉 Merged PR [#86](https://github.com/GraceHopper-Pastry/Capstone-Project/pull/86) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
-5. 🎉 Merged PR [#82](https://github.com/GraceHopper-Pastry/Capstone-Project/pull/82) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
+1. 💪 Opened PR [#93](https://github.com/GraceHopper-Pastry/Capstone-Project/pull/93) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
+2. 🎉 Merged PR [#91](https://github.com/GraceHopper-Pastry/Capstone-Project/pull/91) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
+3. 🎉 Merged PR [#89](https://github.com/GraceHopper-Pastry/Capstone-Project/pull/89) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
+4. ❗️ Closed issue [#64](https://github.com/GraceHopper-Pastry/Capstone-Project/issues/64) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
+5. 🎉 Merged PR [#86](https://github.com/GraceHopper-Pastry/Capstone-Project/pull/86) in [GraceHopper-Pastry/Capstone-Project](https://github.com/GraceHopper-Pastry/Capstone-Project)
 <!--END_SECTION:activity-->
 
